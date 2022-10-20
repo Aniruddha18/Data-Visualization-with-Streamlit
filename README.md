@@ -7,7 +7,6 @@ Run the following commands to start the application
   cd Data-Visualization-with-Streamlit
 ```
 
-
 Steps to create and activate Virtual Environment on Ubuntu 20.04
 
 ```bash
@@ -22,8 +21,13 @@ Steps to install Streamlit and Plotly
  pip install streamlit
  pip install plotly-express
 ```
+
 Run the following command to start streamlit application
 
 ```bash
  streamlit run dashboard.py
 ```
+
+## Screenshots
+
+![App Screenshot] ('screenshots/Image1.png') ('screenshots/Image2.png')
