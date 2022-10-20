@@ -29,5 +29,7 @@ Run the following command to start streamlit application
 ```
 
 ## Screenshots
+![Screenshot from 2022-10-20 08-45-53](https://user-images.githubusercontent.com/23741325/196860372-8ec7bab9-0707-48ca-87d8-afbcb6b25c3f.png)
+![Screenshot from 2022-10-20 08-46-07](https://user-images.githubusercontent.com/23741325/196860397-8ce24329-a32b-46fe-9fea-1a03c777a834.png)
 
-![App Screenshot] ('screenshots/Image1.png') ('screenshots/Image2.png')
+
